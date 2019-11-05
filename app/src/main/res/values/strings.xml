@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">CrudMySQL2019</string>
-    <string name="title_activity_main2">App Git hub</string>
+    <string name="title_activity_main2">App Git hub Laura</string>
 
     <string name="action_settings">Nuevo Registro</string>
     <string name="listarticulos">Lista Spinner</string>
